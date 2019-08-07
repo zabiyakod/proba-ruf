@@ -10,4 +10,4 @@ P3 heart rate for the last 15 seconds of the first minute of the recovery period
 For normal operation, you need DosBox. Drag the file from the archive to the DosBox icon
 
 Calculation example:
-Adult man, 28 years old. P1 at rest before load = 20, P2 in the first 15 seconds after 30 squats = 25, P3 for 15 seconds after half a minute from the start of rest = 23. IR (Index) = {4 x (20 + 25 + 23) - 200} / 100 = 0.72 . Excellent heart function (normal).
+Adult man, 28 years old. P1 at rest before load = 20, P2 in the first 15 seconds after 30 squats = 25, P3 for 15 seconds after half a minute from the start of rest = 23. IR (Index) = {4 x (20 + 25 + 23) - 200} / 100 = 7 . Excellent heart function (normal).
