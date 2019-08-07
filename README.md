@@ -9,12 +9,8 @@ P3 heart rate for the last 15 seconds of the first minute of the recovery period
 
 For normal operation, you need DosBox. Drag the file from the archive to the DosBox icon
 
-Index value:
-• less than 0 - athletic heart;
-• from 0.1 to 5 - “excellent” a very good heart;
-• from 5.1 to 10 - “good” good heart;
-• from 10.1 to 15 - “satisfactory” moderate heart failure;
-• from 15.1 to 20 - “bad” severe heart failure
+<p>Index value:<br />
+<ul><li>less than 0&nbsp;&mdash; athletic heart;</li><li>from 0.1 to&nbsp;5&nbsp;&mdash; &laquo;excellent&raquo; a&nbsp;very good heart;</li><li>from 5.1 to&nbsp;10&nbsp;&mdash; &laquo;good&raquo; good heart;</li><li>from 10.1 to&nbsp;15&nbsp;&mdash; &laquo;satisfactory&raquo; moderate heart failure;</li><li>from 15.1 to&nbsp;20&nbsp;&mdash; &laquo;bad&raquo; severe heart failure</li></ul>
 
 Calculation example:
 Adult man, 28 years old. P1 at rest before load = 20, P2 in the first 15 seconds after 30 squats = 25, P3 for 15 seconds after half a minute from the start of rest = 23. IR (Index) = {4 x (20 + 25 + 23) - 200} / 100 = 7 . Excellent heart function (normal).
